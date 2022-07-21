@@ -42,7 +42,7 @@ dependencies {
     compile 'com.jakewharton:butterknife:7.0.1'
     compile 'nl.2312:rxcupboard:0.7'
     compile 'com.squareup.retrofit2:retrofit:2.0.0-beta3'
-    compile 'com.squareup.retrofit2:retrofit-converters:2.0.0-beta3'
+    compile 'com.squareup.retrofit2:retrofit-converters:2.8.1'
     compile 'com.squareup.retrofit2:converter-simplexml:2.0.0-beta3'
     compile 'com.squareup.retrofit2:adapter-rxjava:2.0.0-beta3'
     compile 'org.simpleframework:simple-xml:2.7.1'
