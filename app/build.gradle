@@ -41,7 +41,7 @@ dependencies {
     compile 'de.greenrobot:eventbus:3.0.0-beta1'
     compile 'com.jakewharton:butterknife:7.0.1'
     compile 'nl.2312:rxcupboard:0.7'
-    compile 'com.squareup.retrofit2:retrofit:2.0.0-beta3'
+    compile 'com.squareup.retrofit2:retrofit:2.10.0'
     compile 'com.squareup.retrofit2:retrofit-converters:2.0.0-beta3'
     compile 'com.squareup.retrofit2:converter-simplexml:2.0.0-beta3'
     compile 'com.squareup.retrofit2:adapter-rxjava:2.0.0-beta3'
